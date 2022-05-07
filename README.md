@@ -4,6 +4,12 @@ python で迷路を扱うためのライブラリーです
 
 ## user case
 
+### install
+
+```bash
+pip install git+https://github.com/miyamoto-kentaro/labipy
+```
+
 conversion : 迷路の配列を壁の有無の配列に置き換える
 
 ```python
